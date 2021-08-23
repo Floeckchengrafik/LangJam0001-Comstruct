@@ -1,5 +1,7 @@
 # Jam #1
 
+[![Join the chat at https://gitter.im/LangJam0001-Comstruct/community](https://badges.gitter.im/LangJam0001-Comstruct/community.svg)](https://gitter.im/LangJam0001-Comstruct/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome to the first langjam! We're excited to get started.
 
 UPDATE: And... DONE! Huge thanks to everyone who participated!
