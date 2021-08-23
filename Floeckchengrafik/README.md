@@ -1,5 +1,7 @@
 # Comstruct
 
+[![Join the chat at https://gitter.im/LangJam0001-Comstruct/community](https://badges.gitter.im/LangJam0001-Comstruct/community.svg)](https://gitter.im/LangJam0001-Comstruct/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### The Constructor is named `comment` / Probably some other things too
 
 ## Content
